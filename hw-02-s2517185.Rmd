@@ -106,38 +106,36 @@ geom_smooth(method = lm, se = FALSE) +
 #### Example of a good data visualisation
 
 ```{r ex4_good_viz, echo = FALSE, out.width = "80%"}
-# edit the file path accordingly
-knitr::include_graphics("img/good_viz.png")
+# 
+knitr::include_graphics("Energy-intensity-vs-gdp.jpeg")
 ```
 
 _Edit the text below by replacing the bold text with the appropriate information to provide a reference for your image (Please delete this message before submission!)_
 
-**Author/Organisation**, "**Title of website**" [Online]. Available at: **URL** (Accessed: **day month year**)
+**Our World in Data**, "*Our world in Data**" [Online]. Available at: **https://ourworldindata.org/grapher/energy-intensity-vs-gdp** (Accessed: **07 10 2023**)
 
 
 The above image presents a good data visualisation because:
 
--   _Reason 1_
--   _Reason 2_
-
+-   _It conveys information clearly and concisely. Avoid clutter and unnecessary elements that can distract from the main message. Use clear labels, appropriate color schemes, and intuitive layouts to ensure that the audience can easily interpret the data._
+-   _It provides context and transparency about data sources, methods, and without any potential biases or limitations._
 
 #### Example of a bad data visualisation
 
 
 ```{r ex4_bad_viz, echo = FALSE, out.width = "80%"}
 # edit the file path accordingly
-knitr::include_graphics("img/bad_viz.png")
+knitr::include_graphics("pie2.jpeg")
 ```
 
-_Edit the text below by replacing the bold text with the appropriate information to provide a reference for your image (Please delete this message before submission!)_
+_ **Catherine**, "**Yum - A Million Pieces of Pie!**" [Online]. Available at: **https://playfairgroup.blogspot.com/2010/09/yum-million-pieces-of-pie.html** (Accessed: **15 09 2010**)_
 
-**Author/Organisation**, "**Title of website**" [Online]. Available at: **URL** (Accessed: **day month year**)
 
 
 
 The above image presents a bad data visualisation because:
 
--   _Reason 1_
--   _Reason 2_
+-   _While it has been established that using different colors help people interpret data visualizations quicker, too much color can confuse the viewer. It is important to choose a limited number of colors._
+-   _A pie chart was the wrong choice. A bar chart might be a better choice for this data._
 
 
